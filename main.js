@@ -22,7 +22,6 @@ function getAllParagraphs() {
   return para;
 }
 
-console.log(getAllParagraphs());
 
 // 3) Define a function named makeItalic.
 // The function should change the CSS style of
@@ -42,8 +41,6 @@ function makeItalic() {
   }
   return even;
 }
-
-console.log(makeItalic());
 
 // 4) Define a function named createBorders that selects
 // the table inside the "myPage" section. The function
